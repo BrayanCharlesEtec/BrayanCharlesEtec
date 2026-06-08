@@ -84,9 +84,4 @@ Ao longo do curso, construí uma base sólida em diversas áreas do desenvolvime
     <img src="https://img.shields.io/badge/WhatsApp-2a0a3a?style=for-the-badge&logo=whatsapp&logoColor=f0e6f6" alt="WhatsApp">
   </a>
 </p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7b4fa6,50:4a1a6e,100:1a0828&height=150&section=footer&animation=fadeIn"/>
-
 </div>
