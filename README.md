@@ -62,11 +62,6 @@ Ao longo do curso, construí uma base sólida em diversas áreas do desenvolvime
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanCharlesEtec&theme=dark&background=1a0828&ring=7b4fa6&fire=c9a0dc&currStreakLabel=f0e6f6&sideLabels=c9a0dc&border=4a1a6e" alt="GitHub Streak" />
-
 
 ## Onde Me Encontrar
 
