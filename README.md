@@ -14,7 +14,7 @@
 
 Meu nome é **Brayan Charles**, tenho 17 anos e estou construindo minha trajetória como desenvolvedor Fullstack. Atualmente curso o **3º ano de Tecnologia da Informação na ETEC MCM**, onde desenvolvo habilidades técnicas e práticas com foco em soluções reais.
 
-Para mim, programar vai além do código — é a capacidade de transformar uma ideia em algo concreto e funcional. Meu próximo objetivo é ingressar na **FATEC**, aprofundar meus conhecimentos e contribuir com projetos que gerem impacto.
+Meu próximo objetivo é ingressar na **FATEC**, aprofundar meus conhecimentos e contribuir com projetos que gerem impacto.
 
 ---
 
